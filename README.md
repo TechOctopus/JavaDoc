@@ -1,0 +1,1 @@
+# JavaDoc for the OOP project TravelMate
